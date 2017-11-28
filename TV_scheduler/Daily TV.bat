@@ -1,0 +1,1 @@
+powershell -File "TV uploading.ps1"
